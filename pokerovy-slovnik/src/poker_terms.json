@@ -1,0 +1,1392 @@
+{
+  "A": [
+    {
+      "term": "A-game",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - nejlepší a nejsoustředěnější možná hra daného hráče. například: \"zahrál jsem v tom turnaji svou a-game.\""
+    },
+    {
+      "term": "ABC hra, ABC game, ABC poker",
+      "definition": "Při pokerové hře se tímto myslí - předvídatelná, \"učebnicová\" hra. hráč, který hraje abc poker, nehraje vyloženě špatně, jeho hra je ale velmi předvídatelná a čitelná a proti silným soupeřům nestačí."
+    },
+    {
+      "term": "Ace High",
+      "definition": "Tento pojem v pokeru popisuje - pokerová kombinace, která netvoří žádný pár ani jinou lepší kombinaci, skládá se z pěti různých karet, kde nejvyšší kartou je eso."
+    },
+    {
+      "term": "Ace In The Hole",
+      "definition": "V pokeru tento termín označuje - eso v zavřených kartách při stud pokeru."
+    },
+    {
+      "term": "Ace To Five",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - varianta low ball pokeru."
+    },
+    {
+      "term": "Aces Up",
+      "definition": "V pokerové terminologii se jedná o - kombinace dvou párů, z nichž jeden je pár es."
+    },
+    {
+      "term": "Action Card",
+      "definition": "V pokeru tento termín označuje - vyložená společná karta, která mohla dvěma nebo více hráčům vylepšit kombinaci - tato karta spustí akci."
+    },
+    {
+      "term": "Active Hand",
+      "definition": "V pokerové terminologii se jedná o - karty hráče, který je ještě ve hře."
+    },
+    {
+      "term": "Add-on",
+      "definition": "Tento pokerový výraz znamená - poslední povolené dokoupení žetonů v rebuy turnajích. add-on většinou přichází na řadu po předem přesně stanoveném čase a hráč za něj zpravidla získá větší obnos žetonů než při rebuyi."
+    },
+    {
+      "term": "Ahead",
+      "definition": "Tento pojem v pokeru popisuje - kombinace, která je v danou chvíli lepší než soupeřova kombinace - je napřed."
+    },
+    {
+      "term": "Air",
+      "definition": "Při pokerové hře se tímto myslí - označení slabé kombinace, která nemá téměř žádnou šanci na výhru."
+    },
+    {
+      "term": "Ajax",
+      "definition": "Tento pojem v pokeru popisuje - startovní kombinace a-j."
+    },
+    {
+      "term": "Alan Alda",
+      "definition": "Při pokerové hře se tímto myslí - startovní kombinace a-a."
+    },
+    {
+      "term": "All-in",
+      "definition": "Při pokerové hře se tímto myslí - situace, ve které se hráč ocitá, když vsadí nebo dorovná za všechny své žetony. více o all-inu se dočtete zde."
+    },
+    {
+      "term": "American Airlines",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - startovní kombinace a-a."
+    },
+    {
+      "term": "Angle Shooting",
+      "definition": "Při pokerové hře se tímto myslí - neetické jednání, při kterém hráč naznačí (například pohybem s žetony nějakou akci), aby viděl, jakou reakci to vyvolá u soupeře. zpravidla jde o provinění proti pravidlům, ne vždy se ale taková situace dá posoudit jednoznačně."
+    },
+    {
+      "term": "Announnced bet",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - hlášená sázka. pokud hráč řekne nahlas, kolik chce vsadit, je to už pro něj závazné."
+    },
+    {
+      "term": "Ante",
+      "definition": "Při pokerové hře se tímto myslí - poplatek zaplacený před začátkem každé hry, který se nezapočítává do výše sázek v daném sázkové kole, je ale součástí banku (potu). využívá se zejména v turnajích a roste zároveň s povinnými sázkami (blindy). místo klasického ante bylo se v některých turnajích vkládá big blind ante - hráč sedící na bb povinně vloží také ante ve výši big blindu."
+    },
+    {
+      "term": "Assault Rifle",
+      "definition": "V pokeru tento termín označuje - startovní kombinace a-k-4-7 v pot limit omaze. vychází z původního typového označení nejslavnějšího samopalu."
+    },
+    {
+      "term": "ATC",
+      "definition": "Tento pojem v pokeru popisuje - zkráceně řečeno any two cards (jakékoli dvě karty)."
+    },
+    {
+      "term": "Average Stack",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - průměrný stack v turnaji."
+    }
+  ],
+  "B": [
+    {
+      "term": "Back door",
+      "definition": "V pokerové terminologii se jedná o - silná kombinace zkompletovaná díky kartám na turnu a riveru. příklad: máme a7. na na flop přijde a64. vsadíme a jsme dorovnáni. turn je t, všichni check. a na river dorazí j. došla nám backdoor nut flush."
+    },
+    {
+      "term": "Back raise",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - navýšení předchozího raisu. to samé jako re-raise."
+    },
+    {
+      "term": "Backer",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - sponzor, respektive investor nějakého hráče, který se sám hry neúčastní."
+    },
+    {
+      "term": "Bad beat",
+      "definition": "Tento pojem v pokeru popisuje - smolná prohra s kombinací, která měla velkou pravděpodobnost na výhru."
+    },
+    {
+      "term": "Bad run",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - období, kdy se vám dlouhodobě nedaří."
+    },
+    {
+      "term": "Ballerina",
+      "definition": "V pokerové terminologii se jedná o - startovní kombinace 2-2."
+    },
+    {
+      "term": "Bankroll",
+      "definition": "V pokerové terminologii se jedná o - finanční prostředky hráče určené na hru."
+    },
+    {
+      "term": "Bankroll Management",
+      "definition": "Při pokerové hře se tímto myslí - pravidla pro zodpovědné zacházení s bankrollem. určují, jak vysoké hry je z našeho finančního hlediska bezpečné hrát."
+    },
+    {
+      "term": "BB",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - zkratka pro big blind."
+    },
+    {
+      "term": "Beer Hand",
+      "definition": "Při pokerové hře se tímto myslí - startovní kombinace 7-2."
+    },
+    {
+      "term": "Behind",
+      "definition": "V pokeru tento termín označuje - kombinace, která je v danou chvíli horší než soupeřova - je pozadu."
+    },
+    {
+      "term": "BI",
+      "definition": "V pokeru tento termín označuje - zkratka pro buy-in (startovné do hry)."
+    },
+    {
+      "term": "Bicycle",
+      "definition": "V pokerové terminologii se jedná o - nejlepší karetní kombinace v tzv. low pokeru a-2-3-4-5, někdy označováno také jako wheel."
+    },
+    {
+      "term": "Big Bet",
+      "definition": "V pokeru tento termín označuje - větší sázka v limit hrách ($1/$2 limit - $2 = big bet). big bet se sází během posledních dvou sázkových kol (turn a river)."
+    },
+    {
+      "term": "Big Blind",
+      "definition": "Při pokerové hře se tímto myslí - větší ze dvou povinných sázek (sázek naslepo), které se používají především v hold'emových hrách. jeho hodnota je minimální sázka, kterou musíte vložit, abyste se mohli zúčastnit hry."
+    },
+    {
+      "term": "Big Chick",
+      "definition": "V pokeru tento termín označuje - označení startovní kombinace a-q."
+    },
+    {
+      "term": "Big Lick",
+      "definition": "V pokerové terminologii se jedná o - startovní kombinace 6-9."
+    },
+    {
+      "term": "Big Slick",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - startovní kombinace a-k."
+    },
+    {
+      "term": "Blackjack",
+      "definition": "Tento pokerový výraz znamená - startovní kombinace a-j."
+    },
+    {
+      "term": "Blank",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - karta na stole, u které se nepředpokládá, že by významným způsobem ovlivnila situaci ve hře (někdy také \"brick\"). pokud je flop ajt, tak následná 2 na turnu je považována za nepodstatnou, tedy „blank“ kartu. pro 2 už to ale neplatí."
+    },
+    {
+      "term": "Blind",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - povinná sázka vložená před rozdáním karet. blindy obvykle vkládají dva hráči po levici od buttonu - malý a velký blind."
+    },
+    {
+      "term": "Blind Raise",
+      "definition": "Při pokerové hře se tímto myslí - hráč zvýší sázky aniž by se podíval na své karty."
+    },
+    {
+      "term": "Blocker",
+      "definition": "Tento pojem v pokeru popisuje - karta, kterou máme na ruce a zabraňujeme tím soupeři v sestavení jeho možné silné kombinace. blokujeme mu některé silnější kombinace."
+    },
+    {
+      "term": "Blocking Bet",
+      "definition": "V pokerové terminologii se jedná o - obvykle sázka na riveru mimo pozici, která je většinou méně než polovina potu. hráč, který používá blocking bet, má obvykle ne úplně silnou kombinaci, se kterou se chce dostat levně do showdownu. tím, že sám vsadí malou sázku, chce předejít tomu, aby musel dorovnávat soupeřovu velkou sázku. na případný raise pak zahodí."
+    },
+    {
+      "term": "Bluff",
+      "definition": "Při pokerové hře se tímto myslí (blaf) - hráč, který blafuje, sází se slabší kombinací, aby přiměl složit silnější kombinaci, která by ho v showdownu porazila. sázkou se snaží reprezentovat silnou handu."
+    },
+    {
+      "term": "Board",
+      "definition": "V pokerové terminologii se jedná o - všechny společné karty v hold'emu – flop, turn a river dohromady."
+    },
+    {
+      "term": "Boat",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - jiný výraz pro full house."
+    },
+    {
+      "term": "Bot",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - zkratka anglického výrazu robot, tedy označení zakázaného softwaru, který hraje místo hráče."
+    },
+    {
+      "term": "Bottom Pair",
+      "definition": "V pokeru tento termín označuje - jedná se o pár utvořený z nejnižší karty na flopu. pokud máme a6 a na flopu se objeví kt6, flopnuli jsme bottom pair."
+    },
+    {
+      "term": "Bounty",
+      "definition": "Tento pokerový výraz znamená - odměna pro hráče, který vyřadí soupeře v turnaji typu mystery bounty, knock-out či progressive knock-out. bounty může být vypsáno také ve standardních turnajích na nějakého speciálního hráče (obvykle na nějakou celebritu)."
+    },
+    {
+      "term": "Boxed Card",
+      "definition": "V pokeru tento termín označuje - náhodně otočená karta z balíčku."
+    },
+    {
+      "term": "Breakeven",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - označení situace, kdy hráč po určité době hraní pokeru skončí \"na svém\" (žádný profit, žádná ztráta)."
+    },
+    {
+      "term": "Bridge Order",
+      "definition": "Při pokerové hře se tímto myslí - pravidlo používané v stud pokeru k určení hráče, který bude dávat do hry bring-in, říkající, že  >  >  > ."
+    },
+    {
+      "term": "Bring In",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - povinná sázka ve stud pokeru."
+    },
+    {
+      "term": "Bring It In",
+      "definition": "Tento pojem v pokeru popisuje - začátek sázek v prvním kole."
+    },
+    {
+      "term": "BTN",
+      "definition": "V pokerové terminologii se jedná o - zkratka pro button, pozici u pokerového stolu."
+    },
+    {
+      "term": "Bubble",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí (bublina) - jedno nebo několik míst před placenými pozicemi v turnaji - „bublina“."
+    },
+    {
+      "term": "Bubble boy",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - poslední hráč, který z turnaje vypadne před vyplácenými příčkami."
+    },
+    {
+      "term": "Buckets",
+      "definition": "Tento pojem v pokeru popisuje - startovní kombinace 4-4."
+    },
+    {
+      "term": "Burn",
+      "definition": "Tento pojem v pokeru popisuje (spálení karty) - vyřazení vrchní karty z balíčku hodnotou dolů. děje se tak mezi každým kolem sázek před vytažením další společné karty či karet. je to obrana proti některým hráčům, kteří rozpoznávají nebo se snaží zahlédnout následující karty."
+    },
+    {
+      "term": "Button",
+      "definition": "Tento pokerový výraz znamená - bílý plastový žeton, který označuje dealera, respektive hráče, který je na pozici button. po každé hře se posouvá k dalšímu hráči po směru hodinových ručiček."
+    },
+    {
+      "term": "Buy-in",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - u turnajů je to startovné, u cash games částka, se kterou si sednete ke stolu."
+    }
+  ],
+  "C": [
+    {
+      "term": "Cage",
+      "definition": "Tento pokerový výraz znamená - označení pokladny používané v kamenných kasinech. v pokladně je možné si směnit žetony za peníze."
+    },
+    {
+      "term": "Call",
+      "definition": "V pokeru tento termín označuje - dorovnání soupeřovy sázky."
+    },
+    {
+      "term": "Call Down",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - výraz pro situaci, kdy hráč soupeře pouze dorovnává až do showdownu."
+    },
+    {
+      "term": "Caller",
+      "definition": "Tento pojem v pokeru popisuje - hráč, který právě dorovnal sázku."
+    },
+    {
+      "term": "Calling Range",
+      "definition": "V pokerové terminologii se jedná o - rozsah rukou (všechny kombinace), se kterými soupeř dorovná."
+    },
+    {
+      "term": "Calling Station",
+      "definition": "V pokeru tento termín označuje - hráč, který často jen dorovnává a chce se podívat za každou cenu do showdownu."
+    },
+    {
+      "term": "Candy Canes",
+      "definition": "Tento pojem v pokeru popisuje - startovní kombinace 7-7."
+    },
+    {
+      "term": "Canine",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - startovní kombinace k-9."
+    },
+    {
+      "term": "Cap",
+      "definition": "V pokeru tento termín označuje - poslední povolená sázka v daném kole sázek. bývá to nejčastěji třetí nebo čtvrté navýšení. v limitní hře je to označení pro omezení počtu navýšení v jednom sázkovém kole (zpravidla 1 sázka a 3 navýšení), v no limit hře omezení maximálního počtu žetonů/peněz, které hráč během jedné partie může vsadit."
+    },
+    {
+      "term": "Capped",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - termín popisuje situaci v limit pokeru, kde už není možné navyšovat v daném kole sázení, protože byl dosažen maximální počet navýšení."
+    },
+    {
+      "term": "Capped Range",
+      "definition": "V pokerovém slovníku najdeme tento termín jako (kapnutá range) - range, ze které po předchozí akci můžeme vyloučit nejsilnější kombinace."
+    },
+    {
+      "term": "Cardroom",
+      "definition": "V pokeru tento termín označuje - místnost v kasinu, kde se hraje poker."
+    },
+    {
+      "term": "Cash Game",
+      "definition": "Při pokerové hře se tímto myslí - neturnajová pokerová hra, kde hráči přisedají a odsedají podle jejich uvážení, žetony na stole reprezentují peníze."
+    },
+    {
+      "term": "Cashier",
+      "definition": "V pokerové terminologii se jedná o - pokladna v online pokerové herně. zde hráč najde vše potřebné o stavu svého konta."
+    },
+    {
+      "term": "Cashout",
+      "definition": "Tento pokerový výraz znamená - výběr finančních prostředků z hráčského účtu nebo vyměnění žetonů zpět na peníze (a následný odchod od stolu) u cash games. někdy také termín pro výhru v turnaji - např. má několik cashoutů z wsop eventů."
+    },
+    {
+      "term": "Cbet",
+      "definition": "Při pokerové hře se tímto myslí (viz continuation bet)"
+    },
+    {
+      "term": "Check",
+      "definition": "Při pokerové hře se tímto myslí - zdržení se sázky. hráč se může zdržet sázky jen tehdy, pokud před ním ještě nikdo nevsadil."
+    },
+    {
+      "term": "Check Behind",
+      "definition": "Při pokerové hře se tímto myslí - check posledního hráče v daném kole, když hráči před ním jen checknuli."
+    },
+    {
+      "term": "Check Blind",
+      "definition": "Tento pojem v pokeru popisuje - check naslepo. hráč mimo pozici, který se rozhoduje jako první, může tímto výrazem oznámit check na příští streetě ještě před jejím rozdáním."
+    },
+    {
+      "term": "Check In The Dark",
+      "definition": "Při pokerové hře se tímto myslí - check bez podívání se na vlastní karty, check naslepo."
+    },
+    {
+      "term": "Check-Raise",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - akce, která se skládá z checku a navýšení soupeřova raisu."
+    },
+    {
+      "term": "Chip Leader",
+      "definition": "V pokeru tento termín označuje - hráč s největším počtem žetonů (chipů) v turnaji."
+    },
+    {
+      "term": "Chip Race",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - vyřazování žetonů s nižší hodnotou v průběhu pokerového turnaje."
+    },
+    {
+      "term": "Chop",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - rozdělení banku v případě, že v partii dojde k remíze, tedy hráči mají naprosto totožné výherní kombinace. jiným termínem se stejným významem je split."
+    },
+    {
+      "term": "Clubs",
+      "definition": "Při pokerové hře se tímto myslí - anglické pojmenování znaku ."
+    },
+    {
+      "term": "CO",
+      "definition": "Při pokerové hře se tímto myslí - zkratka pro cutoff, pozice vpravo od dealera."
+    },
+    {
+      "term": "Coin Flip",
+      "definition": "Při pokerové hře se tímto myslí - označení pro situaci, kdy jdou dva hráči all-in před showdownem a jejich šance na vítězství v dané partii jsou téměř totožné."
+    },
+    {
+      "term": "Cold Call",
+      "definition": "Při pokerové hře se tímto myslí - dorovnání jednoho či výše navýšení, aniž bychom v daném sázkovém kole již vsadili žetony do potu."
+    },
+    {
+      "term": "Cold Deck",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - situace, kdy hráči po delší dobu chodí jen samé špatné startovní kombinace."
+    },
+    {
+      "term": "Collusion",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - podvádění, při kterém spolupracují dva nebo více hráčů."
+    },
+    {
+      "term": "Combo Draw",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - draw složené z flush draw i straight draw (např.: držíme t9 a na flopu jsou tyto karty 78a = máme combo draw, šanci jak na postupku, tak i barvu)."
+    },
+    {
+      "term": "Community Cards",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - společné karty na stole. tyto karty tvoří flop, turn a river."
+    },
+    {
+      "term": "Complete",
+      "definition": "V pokerové terminologii se jedná o - dorovnání velkého blindu z malého blindu."
+    },
+    {
+      "term": "Connectors",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - startovní kombinace ze dvou karet jejichž hodnoty jdou hned po sobě ( např. 2-3, 6-7, j-t atd)."
+    },
+    {
+      "term": "Continuation Bet",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - pokračování v sázení na flopu poté, co jsme navyšovali před flopem."
+    },
+    {
+      "term": "Cooler",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - označení situace, kdy dva nebo i více hráčů drží velmi silné kombinace, které se prakticky \"nedají\" zahodit (např.: set vs. set; nejvyšší dva páry vs. straight atd)."
+    },
+    {
+      "term": "Cowboys",
+      "definition": "V pokeru tento termín označuje (kovbojové) - startovní kombinace k-k."
+    },
+    {
+      "term": "Crabs",
+      "definition": "Tento pojem v pokeru popisuje (krabi) - startovní kombinace 3-3."
+    },
+    {
+      "term": "Crack",
+      "definition": "Tento pokerový výraz znamená - výraz označující situaci, kdy je silná kombinace poražena (cracked). tento výraz se nejčastěji objevuje ve spojení s a-a."
+    },
+    {
+      "term": "Crazy Pineapple",
+      "definition": "Při pokerové hře se tímto myslí - pokerová varianta, obdoba texas holdem pokeru, kdy se jedna karta vyřazuje a hraje se i na nízké karty."
+    },
+    {
+      "term": "Crying Call",
+      "definition": "Tento pokerový výraz znamená - dorovnání, při kterém si myslíme, že pravděpodobně držíme horší kombinaci než soupeř."
+    },
+    {
+      "term": "Cutoff",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - pozice vpravo od dealera."
+    }
+  ],
+  "D": [
+    {
+      "term": "Datamining",
+      "definition": "V pokerové terminologii se jedná o - sbírání statistik z hand historií ostatních hráčů pomocí automatického softwaru bez přímé účasti ve hře."
+    },
+    {
+      "term": "Dead Card",
+      "definition": "Tento pojem v pokeru popisuje - vyřazená karta z dané partie. karta může být vyřazena například při nechtěném otočení karty při rozdávání."
+    },
+    {
+      "term": "Dead Manʼs Hand",
+      "definition": "V pokeru tento termín označuje (ruka mrtvého muže) - dva páry, esa a osmičky. wild bill hickock byl údajně zastřelen do zad, když hrál s těmito kartami."
+    },
+    {
+      "term": "Deal",
+      "definition": "Tento pokerový výraz znamená - jedná se o rozdělení prize poolu turnaje mezi několik posledních hráčů  nezávisle na výplatní struktuře daného turnaje. všichni hráči s dealem musí dobrovolně souhlasit."
+    },
+    {
+      "term": "Dealer",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - označení pro toho, kdo rozdává, ale pojmem dealer se někdy označuje i pozice u stolu. je to hráč, od kterého se rozdávají karty. tento hráč také rozdává, pokud jde o hru bez profesionálního dealera."
+    },
+    {
+      "term": "Deep Stack",
+      "definition": "Při pokerové hře se tímto myslí - typ hry, kdy začínáte s více žetony než obvykle, obyčejně 100 velkých blindů a více."
+    },
+    {
+      "term": "Delayed Bet",
+      "definition": "Tento pojem v pokeru popisuje - continuation bet na turnu (poté, co jsme jako preflop raiser precheckovali flop)."
+    },
+    {
+      "term": "Deposit",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - vložení finančních prostředků na hráčský účet."
+    },
+    {
+      "term": "Deuces",
+      "definition": "Tento pojem v pokeru popisuje - karty s hodnotou 2."
+    },
+    {
+      "term": "Diamonds",
+      "definition": "Tento pokerový výraz znamená - anglické označení pro \"káry\" ."
+    },
+    {
+      "term": "Dime",
+      "definition": "Při pokerové hře se tímto myslí - slangově řečeno $1.000."
+    },
+    {
+      "term": "DoN",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - turnaje double or nothing (polovina hráčů vyhrává dvojnásobek vkladu, polovina nic)."
+    },
+    {
+      "term": "Donk Bet",
+      "definition": "Při pokerové hře se tímto myslí -  sázka z první mimo pozici v postflop hře, kterou provede hráč, který nebyl preflop agresorem. zpravidla jde spíše o menší sázku. příklad: hráč na big blindu jen dorovná raise z buttonu a na flopu vsadí z první."
+    },
+    {
+      "term": "Donkey",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - termín označující špatného hráče."
+    },
+    {
+      "term": "Double Up",
+      "definition": "V pokerové terminologii se jedná o - zdvojnásobení počtu svých žetonů během jedné partie."
+    },
+    {
+      "term": "Downswing",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - období, během kterého se hráči nedaří. dlouhé smolné období."
+    },
+    {
+      "term": "Doyle Brunson",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - startovní kombinace t-2."
+    },
+    {
+      "term": "Draw",
+      "definition": "V pokeru tento termín označuje - situace kdy hráči chybí jedna karta na vytvoření silné kombinace (flush draw nebo straight draw)."
+    },
+    {
+      "term": "Draw Lowball",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - pokerová varianta, při které dostane hráč pět karet, má možnost si jednu nebo více karet vyměnit a vyhrává nejnižší kombinace."
+    },
+    {
+      "term": "Drawing Dead",
+      "definition": "V pokeru tento termín označuje - není jakákoli šance, že by daná kombinace v dané partii mohla ještě vyhrát. pokus o sestavení takové handy, která i když přijde, nevyhraje bank. pokud máme flush draw a náš protihráč má full house, jsme „drawing dead“."
+    },
+    {
+      "term": "Drawout",
+      "definition": "Tento pokerový výraz znamená - označení situace, kdy jeden hráč chytí jeden ze svých outs k vytvoření kombinace, která poráží soupeře, který byl dosud favoritem dané partie."
+    },
+    {
+      "term": "Dry Flop",
+      "definition": "V pokerovém slovníku najdeme tento termín jako (suchý flop) - výraz pro neuspořádaný flop, který nevytvoří příliš mnoho silných kombinací (např.: k-8-2 v různé barvě)"
+    },
+    {
+      "term": "Ducks",
+      "definition": "Tento pokerový výraz znamená - startovní kombinace 2-2."
+    }
+  ],
+  "E": [
+    {
+      "term": "Early position",
+      "definition": "Tento pokerový výraz znamená - pozice hráče ve hře, který se před flopem rozhoduje mezi prvními. obvykle se tak označují dvě místa po levici od velkého blindu)."
+    },
+    {
+      "term": "Edge",
+      "definition": "V pokerové terminologii se jedná o - výhoda nad soupeřem (u ostatních kasinových her to může být výhoda kasina nad hráčem)."
+    },
+    {
+      "term": "Effective stack",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - nejmenší ze stacků hráčů ještě zapojených v dané partii v no-limit a pot-limit hrách. tento výraz odráží fakt, že když jde větší stack proti menšímu, v sázce může být od každého hráče jen takové množství peněz/žetonů odpovídající velikosti právě menšího z těchto stacků. příklad: máme $50 a jdeme all-in proti soupeři s $20, ten nás dorovná a $30 se nám vrátí, jelikož soupeř od nás nemůže získat více, než on sám má. effective stack je v tomto příkladě $20."
+    },
+    {
+      "term": "Entry",
+      "definition": "Při pokerové hře se tímto myslí - vstup do turnaje. do celkového počtu entries se započítává i re-entry. počet entries (zaplacených vstupů do jednoho turnaje) se tedy počítá jako součet unikátních hráčů a jejich re-entries, které během fáze pro registraci provedli."
+    },
+    {
+      "term": "Entry Fee",
+      "definition": "V pokeru tento termín označuje - označení turnajového poplatku herně/pořadateli (např.: turnaj se startovným €50 + €5, entry fee = €5)."
+    },
+    {
+      "term": "EP",
+      "definition": "Při pokerové hře se tímto myslí - zkratka pro early position."
+    },
+    {
+      "term": "EPT",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - zkratka european poker tour / evropská pokerová tour."
+    },
+    {
+      "term": "Equity",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - kolik bychom v dané handě vyhráli, kdyby se zakázala jakákoliv další akce a jen se dotočil board."
+    },
+    {
+      "term": "EV",
+      "definition": "Tento pokerový výraz znamená - (viz expected value)."
+    },
+    {
+      "term": "Expected Value",
+      "definition": "V pokerové terminologii se jedná o (ev) - kolik očekáváme, že v dané situaci vyhrajeme z dlouhodobého hlediska. rozdíl mezi ev a equity je podrobně vysvětlený v tomto článku."
+    }
+  ],
+  "F": [
+    {
+      "term": "Face Cards",
+      "definition": "V pokerové terminologii se jedná o - označení pro karty, které obsahují obrázek postavičky kromě es - k, q, j (některé výklady řadí mezi face cards i esa)."
+    },
+    {
+      "term": "Fast Forward",
+      "definition": "Tento pokerový výraz znamená - název pro \"fast-fold\" cash game formát (pokud zahodíte, jste okamžitě přesazeni k další hře u jiného stolu)."
+    },
+    {
+      "term": "FD",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - zkratka pro flush draw"
+    },
+    {
+      "term": "FE",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - zkratka pro fold equity."
+    },
+    {
+      "term": "FH",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - zkratka pro full house."
+    },
+    {
+      "term": "Fish",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí (ryba) -  označení pro špatného hráče."
+    },
+    {
+      "term": "Fishhooks",
+      "definition": "V pokerové terminologii se jedná o - startovní kombinace j-j."
+    },
+    {
+      "term": "Fit or Fold",
+      "definition": "V pokeru tento termín označuje - označení opatrného stylu hry, kdy se hráč nepouští do žádné akce, dokud nechytí dobrou kombinaci karet."
+    },
+    {
+      "term": "Five Card Draw",
+      "definition": "V pokeru tento termín označuje - pokerová varianta, ve které dostane každý hráč pět karet a má jednou možnost vyměnit si karty. nejvyšší kombinace vyhrává. pravidla five card draw."
+    },
+    {
+      "term": "Five Card Stud",
+      "definition": "Při pokerové hře se tímto myslí - pokerová varianta, ve které dostane každý hráč pět karet, jednu lícem dolů a čtyři lícem nahoru. kolo sázek následuje po druhé, třetí, čtvrté a páté kartě."
+    },
+    {
+      "term": "Fixed Limit",
+      "definition": "Tento pokerový výraz znamená - jiný termín pro limit poker, poker s pevně danými velikostmi sázek (např.: ve hře limit $2/4 mají všechny sázky a navýšení velikost $2 v prvních dvou sázkových kolech tj. pre-flop a flop, a velikost $4 v posledních dvou sázkových kolech tj. turn a river)."
+    },
+    {
+      "term": "Flat Call",
+      "definition": "V pokerové terminologii se jedná o - dorovnání v situaci, ve které by hráč se silnou kombinací normálně navyšoval, ovšem vzhledem k okolnostem se rozhodne jen dorovnat."
+    },
+    {
+      "term": "Flight",
+      "definition": "Tento pojem v pokeru popisuje - rozřazovací část turnaje označená většinou jako „den 1\" (day 1) a písmeno abecedy. nejlepší z rozřazovacích flightů jdou do dne 2 (day 2), nebo přímo do finálové dne (final day)."
+    },
+    {
+      "term": "Floating",
+      "definition": "Tento pokerový výraz znamená - jedná se o dorovnání soupeře na flopu se slabší kombinací s tím, že vsadíme na turnu, pokud soupeř turn checkne."
+    },
+    {
+      "term": "Floorman",
+      "definition": "Při pokerové hře se tímto myslí - zaměstnanec herny/casina, který dbá na pořádek, usazuje hráče ke stolům, vyměňuje balíčky karet apod. rozhoduje o všech sporných situacích, které vzniknou při hře."
+    },
+    {
+      "term": "Flop",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - první tři společné karty na stole."
+    },
+    {
+      "term": "Flop Games",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - pokerové varianty (hold'em a omaha), v nichž se hraje se společnými kartami uprostřed stolu."
+    },
+    {
+      "term": "Flush",
+      "definition": "V pokerovém slovníku najdeme tento termín jako (barva) - pokerová kombinace z pěti karet stejné barvy."
+    },
+    {
+      "term": "Flush Draw",
+      "definition": "Tento pokerový výraz znamená - situace, kdy má hráč čtyři karty stejné barvy a čeká na chycení poslední paté karty této barvy."
+    },
+    {
+      "term": "Fold Equity",
+      "definition": "Tento pokerový výraz znamená - pravděpodobnost, že naše sázka nebo navýšení donutí soupeře složit své karty."
+    },
+    {
+      "term": "Forced Bet",
+      "definition": "Tento pojem v pokeru popisuje - společné označení pro všechny povinné sázky ve všech pokerových variantách (blindy, ante, bring-in)."
+    },
+    {
+      "term": "Fortuna Poker",
+      "definition": "V pokerové terminologii se jedná o - český slovník online pokeru doplňujeme i o tento často hledaný výraz vztahující se k tuzemské online pokerové herně, jejíž kompletní recenzi najdete pod tímto odkazem."
+    },
+    {
+      "term": "Four Flush",
+      "definition": "Tento pojem v pokeru popisuje - nedokončená kombinace flush, která má místo potřebných 5 karet pouze 4 a na dokončení potřebuje ještě jednu kartu se stejným znakem."
+    },
+    {
+      "term": "FR",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - zkratka pro full ring."
+    },
+    {
+      "term": "Free Card",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - turnová nebo riverová karta, která může vylepšit naši naši draw a my se na ni \"můžeme podívat zadarmo\" (soupeř jen checkne)."
+    },
+    {
+      "term": "Freeroll",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - typ turnaje, ve kterém se neplatí žádný buy-in, hraje se v něm ale o reálné peníze nebo vstupenky do turnaje o peníze."
+    },
+    {
+      "term": "Freezeout",
+      "definition": "V pokerové terminologii se jedná o - typ turnaje, ve kterém se nedokupují žetony. hráč na začátku turnaje dostane určitý počet žetonů, a pokud mu dojdou, tak z turnaje vypadává."
+    },
+    {
+      "term": "Full Boat",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - jiný výraz pro full house."
+    },
+    {
+      "term": "Full House",
+      "definition": "Tento pokerový výraz znamená - pokerová kombinace složená z trojice a dvojice (např.: q-q-q-3-3)."
+    },
+    {
+      "term": "Full Ring",
+      "definition": "Tento pojem v pokeru popisuje - stůl pro 9 -10 hráčů."
+    },
+    {
+      "term": "Full Stack",
+      "definition": "Při pokerové hře se tímto myslí - maximální množství peněz, které si hráč můžeme přinést na konkrétní stůl v cash game."
+    }
+  ],
+  "G": [
+    {
+      "term": "Gamble",
+      "definition": "Tento pokerový výraz znamená - velmi riskantní hra, bez přemýšlení, hra na štěstí."
+    },
+    {
+      "term": "Game Flow",
+      "definition": "Při pokerové hře se tímto myslí - momentální \"atmosféra\" konkrétní hry (stolu) zahrnující věci jako jsou: aktuální koncentrace hráčů, dovednostní úroveň hráčů, úroveň sebeovládání hráčů, psychika hráčů atp."
+    },
+    {
+      "term": "Gap Concept",
+      "definition": "Tento pojem v pokeru popisuje - pokerový koncept zavedený davidem sklanskym. jedná se o koncept turnajové strategie, kdy pro to, abychom mohli dorovnat navýšení před flopem, potřebujeme silnější startovní kombinaci, než s jakou bychom sami otevírali hru navýšením."
+    },
+    {
+      "term": "Garantovaný prize pool (Garance)",
+      "definition": "V pokerové terminologii se jedná o - minimální částka v prize poolu, která se bude rozdělovat bez ohledu na to, kolik se do turnaje zapojí hráčů. pořadatel garantuje, že případný rozdíl mezi oznámenou a vybranou částkou do prize poolu zaplatí ze svého."
+    },
+    {
+      "term": "GG",
+      "definition": "Tento pojem v pokeru popisuje - zkratka pro výraz good game (dobrá hra), tento výraz se zpravidla používá, když hráč vypadne z turnaje."
+    },
+    {
+      "term": "GL",
+      "definition": "Tento pokerový výraz znamená - zkratka pro good luck - hodně štěstí."
+    },
+    {
+      "term": "Grinder",
+      "definition": "V pokeru tento termín označuje - hráč, který pravidelně hraje velké množství her, aby dosáhl pravidelného zisku."
+    },
+    {
+      "term": "Grinding",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - pravidelné hraní velkého množství her (někdy se rozumí na nižších limitech)."
+    },
+    {
+      "term": "GTD",
+      "definition": "Při pokerové hře se tímto myslí - zkratka pro guaranteed (garantováno)."
+    },
+    {
+      "term": "Guaranteed",
+      "definition": "Tento pokerový výraz znamená (viz garantovaný prize pool)."
+    },
+    {
+      "term": "Gutshot",
+      "definition": "Tento pojem v pokeru popisuje - výraz pro inside straight draw - situace, kdy nám chybí (nebo právě dojde) jedna karta do postupky, jde ale o \"vnitřní\" kartu, máme tedy jen 4 outy (např.: držíme 9-8 a na flop přijde q-j-4. postupku vytvoříme, jedině pokud na dalších streetách trefíme desítku)."
+    }
+  ],
+  "H": [
+    {
+      "term": "Hand",
+      "definition": "V pokeru tento termín označuje - hra od fáze rozdání až po vyložení karet. výraz se někdy používá také ve významu hole hand (karty na ruce)."
+    },
+    {
+      "term": "Hand For Hand",
+      "definition": "Při pokerové hře se tímto myslí - fáze, do které vícestolové turnaje přechází na finanční bublině a na bublině finálového stolu. hra na všech zbývajících stolech začíná ve stejnou chvíli (čeká se vždy na ukončení hry na všech stolech)."
+    },
+    {
+      "term": "Hand History",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - textová podoba odehrané partie v online herně."
+    },
+    {
+      "term": "Hand Odds",
+      "definition": "V pokeru tento termín označuje - pravděpodobnost vytvoření námi požadované karetní kombinace."
+    },
+    {
+      "term": "Hand Range",
+      "definition": "V pokeru tento termín označuje - určuje rozsah/rozmezí všech pravděpodobně možných startovních kombinací, které může daný hráč v dané partii držet na základě dosavadního průběhu hry."
+    },
+    {
+      "term": "Hand Reading",
+      "definition": "V pokeru tento termín označuje - schopnost odhadnout soupeřovu range."
+    },
+    {
+      "term": "HE",
+      "definition": "Tento pokerový výraz znamená - zkratka pro pokerovou variantu texas hold’em."
+    },
+    {
+      "term": "Heads Up",
+      "definition": "Při pokerové hře se tímto myslí - situace, kdy partii hrají jen dva hráči."
+    },
+    {
+      "term": "Hero Call",
+      "definition": "Tento pokerový výraz znamená - odvážné dorovnání soupeřovy sázky na riveru s nepříliš silnou kombinací karet."
+    },
+    {
+      "term": "HH",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - zkratka pro hand history."
+    },
+    {
+      "term": "Hi/Lo Split",
+      "definition": "V pokerové terminologii se jedná o - viz high low split."
+    },
+    {
+      "term": "High Ball",
+      "definition": "Tento pojem v pokeru popisuje - poker, v němž rozhoduje nejvyšší kombinace."
+    },
+    {
+      "term": "High Card",
+      "definition": "Při pokerové hře se tímto myslí - znamená držet kombinaci karet, které netvoří ani jeden pár a vyšší. naše kombinace je pak tak silná, jako právě nejvyšší karta, kterou držíme. (např.: hráč s q-t-4-8-2 poráží hráče s j-t-4-8-2, protože jeho high card q je vyšší než high card soupeře, tedy j)."
+    },
+    {
+      "term": "High Low Split",
+      "definition": "V pokeru tento termín označuje - varianta pokeru, v níž se výhra dělí mezi hráče s nejvyšší a hráče s nejnižší kombinací."
+    },
+    {
+      "term": "High Roller",
+      "definition": "V pokerové terminologii se jedná o - hráč nejdražších her nebo turnaj s vysokým startovným."
+    },
+    {
+      "term": "Hijack",
+      "definition": "Tento pojem v pokeru popisuje - pozice dvě místa napravo od dealera. hijack ve významu uloupení možnosti kradení blindů hráčům na pozicích cutoff a button."
+    },
+    {
+      "term": "HJ",
+      "definition": "Při pokerové hře se tímto myslí - zkratka pro hijack."
+    },
+    {
+      "term": "Hockey Sticks",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí (hokejky) - startovní kombinace 7-7."
+    },
+    {
+      "term": "Holdem Manager",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - holdem manager (nebo hm) je pokerový statistický software, který ukládá všechny vaše odehrané pokerové hry do své databáze a na jejím základě vám poté přímo u stolu u jednotlivých hráčů ukáže jejich jednotlivé statistiky. hm však toho dokáže mnohem víc a nabídne vám mnoho cenných a nepostradatelných statistik."
+    },
+    {
+      "term": "Hold’em",
+      "definition": "Tento pokerový výraz znamená - v současnosti nejoblíbenější varianta pokeru na světě. také známý jako texas hold em. pokerová varianta, ve které hráč dostane dvě karty lícem dolů a na stůl se vyloží pět společných karet."
+    },
+    {
+      "term": "Hole Cam",
+      "definition": "Při pokerové hře se tímto myslí - kamera zabírající karty hráčů, které během hry nejsou odkryté (dnes už se většinou technicky řeší prostřednictvím chipů v kartách a čteček ve stolech)."
+    },
+    {
+      "term": "Hole Cards",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - jedná se o karty, které jsou hráči na začátku partie rozdány lícem dolů, žádný jiný hráč je nemůže vidět."
+    },
+    {
+      "term": "Home Game",
+      "definition": "V pokerové terminologii se jedná o - soukromá (domácí) hra."
+    },
+    {
+      "term": "Hooks",
+      "definition": "Při pokerové hře se tímto myslí - výraz pro pár jacků (j-j)."
+    },
+    {
+      "term": "Horse",
+      "definition": "V pokerovém slovníku najdeme tento termín jako (h.o.r.s.e.) - označení smíšené pokerové hry, skládá se z počátečních písmen jednotlivých variant (hold’em, omaha, razz, stud a eight or better)."
+    },
+    {
+      "term": "Hot Run",
+      "definition": "V pokerové terminologii se jedná o - označení období, během kterého se daří."
+    },
+    {
+      "term": "Hourly Rate",
+      "definition": "Tento pojem v pokeru popisuje - průměrný hodinový profit. způsob, jakým lze porovnávat úspěšnost hráčů hrajících cash games."
+    },
+    {
+      "term": "House Rules",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - pravidla hry pro konkrétní kasino (některá pravidla se na různých místech mohou lišit - například pořadí při ukazování karet v showdownu)."
+    },
+    {
+      "term": "HU",
+      "definition": "Tento pojem v pokeru popisuje - zkratka pro heads up."
+    }
+  ],
+  "I": [
+    {
+      "term": "Image",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - obraz hráče, jak se jeho herní styl jeví ostatním."
+    },
+    {
+      "term": "Implied Odds",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - pokerový koncept, který řeší, zda se nám vyplatí dorovnat sázku. tento koncept využíváme v situacích, kdy čelíme sázce, která nemusí být poslední a naše dorovnání lze ospravedlnit tím, že započítáme i peníze/chipy, které do hry teprve mohou (ale nemusí) být vloženy."
+    },
+    {
+      "term": "Improve",
+      "definition": "Tento pojem v pokeru popisuje - vylepšení naší kombinace kartou na boardu."
+    },
+    {
+      "term": "Inside Straight Draw",
+      "definition": "Tento pojem v pokeru popisuje - situace, kdy nám chybí nebo právě dojde jedna karta do postupky, jde ale o \"vnitřní\" kartu, máme tedy jen 4 outy (např.: držíme 9-8 a na flop přijde q-j-4, postupku vytvoříme, jedině pokud na dalších streetách trefíme desítku)."
+    },
+    {
+      "term": "IP",
+      "definition": "Při pokerové hře se tímto myslí - zkratka pro in position - hra v pozici."
+    },
+    {
+      "term": "ITM",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - zkratka pro výraz in the money - umístění v turnaji na placeném místě."
+    },
+    {
+      "term": "Izolování",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - sázka, která má donutit zahodit ostatní hráče a nechat ve hře jen jednoho s užší rangí. někdo například otevře, pět hráčů za ním jen dorovná a my se silnou kombinací raisneme, abychom pokračovali na flop ideálně jen s jedním soupeřem."
+    }
+  ],
+  "J": [
+    {
+      "term": "Jackass",
+      "definition": "Při pokerové hře se tímto myslí - označení pro startovní kombinaci j-a."
+    },
+    {
+      "term": "Jackson Five",
+      "definition": "Tento pojem v pokeru popisuje - označení pro startovní kombinaci j-5."
+    },
+    {
+      "term": "Jam",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - jiný výraz pro all-in, ovšem zahrnující pouze význam vsadit all-in, nikoliv dorovnat all-in."
+    },
+    {
+      "term": "Johnny Moss",
+      "definition": "V pokerové terminologii se jedná o - označení pro startovní kombinaci a-t."
+    },
+    {
+      "term": "Jordan",
+      "definition": "V pokeru tento termín označuje - startovní kombinace 2-3 podle čísla dresu slavného basketbalisty."
+    }
+  ],
+  "K": [
+    {
+      "term": "Kibic",
+      "definition": "Tento pojem v pokeru popisuje - nehrající divák, který komentuje hru."
+    },
+    {
+      "term": "Kick It",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - raise / zvýšení sázek."
+    },
+    {
+      "term": "Kicker",
+      "definition": "Při pokerové hře se tímto myslí - je nespárovaná karta, která určuje lepší ze dvou zdánlivě stejných kombinací. (např.: držíme a-q a soupeř a-j, na flop přijde a-4-2, oba máme pár es, ale naše kombinace je lepší, protože držíme vyšší kicker, tedy q). může jít i o kartu, která je spárovaná, ale pár v kombinaci nehraje žádnou roli. např. na boardu je j-j-j-j-4, hráči drží 7-7 a 8-8, kicker je 8 (vítězná kombinace pak j-j-j-j-8)."
+    },
+    {
+      "term": "Kill",
+      "definition": "V pokeru tento termín označuje - dvojnásobná sázka naslepo (blind) vyžadována od hráče v některých lowball hrách v případě, že vyhrál dva poty po sobě. nebo navýšená sázka naslepo v některých high-low split hrách požadovaná od hráče, který vyhrál obě části potu (banku). nebo dobrovolná sázka ve výši dvojnásobku blindu, kterou vsadí hráč za účelem zvýšení sázek v některých lowball hrách."
+    },
+    {
+      "term": "Kill Button",
+      "definition": "Při pokerové hře se tímto myslí - značka v lowball hře pokeru, která označuje hráče, který vyhrál dva poty (banky) za sebou a musí vsadit kill sázku."
+    },
+    {
+      "term": "Knock Out",
+      "definition": "Tento pojem v pokeru popisuje - označení pro turnaje, ve kterých hráč získává odměnu (bounty) za vyřazení soupeře."
+    },
+    {
+      "term": "Kojak",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - označení pro startovní kombinaci k-j."
+    }
+  ],
+  "L": [
+    {
+      "term": "Labutě",
+      "definition": "Při pokerové hře se tímto myslí - označení pro startovní kombinaci 2-2."
+    },
+    {
+      "term": "Ladies",
+      "definition": "Tento pokerový výraz znamená - označení pro startovní kombinaci q-q."
+    },
+    {
+      "term": "LAG",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - zkratka pro loose aggressive hráče/styl."
+    },
+    {
+      "term": "LAP",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - zkratka pro loose pasive hráče/styl."
+    },
+    {
+      "term": "LAPT",
+      "definition": "V pokeru tento termín označuje - zkratka pro latin american poker tour (latinskoamerická pokerová tour)."
+    },
+    {
+      "term": "Late Position",
+      "definition": "Při pokerové hře se tímto myslí - zadní (pozdní) pozice, v této pozici jsou hráči, kteří se v sázkovém kole vyjadřují mezi posledními (zpravidla pozice button, cutoff a hijack)."
+    },
+    {
+      "term": "Laydown",
+      "definition": "V pokerové terminologii se jedná o - zahození dobrých karet v obtížné situaci."
+    },
+    {
+      "term": "Lead",
+      "definition": "V pokeru tento termín označuje - sázka z první mimo pozici."
+    },
+    {
+      "term": "Leak",
+      "definition": "V pokerové terminologii se jedná o - slabina ve hře, která nás stojí peníze."
+    },
+    {
+      "term": "Level",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - úroveň povinných sázek v turnaji, např. blindy 50/100."
+    },
+    {
+      "term": "LHE",
+      "definition": "Při pokerové hře se tímto myslí - zkratka pro limit hold’em."
+    },
+    {
+      "term": "Limit Poker",
+      "definition": "V pokerové terminologii se jedná o - varianta pokeru, ve které je stanovena minimální a maximální sázka a také maximální počet navýšení. poker s pevně danými velikostmi sázek (např.: ve hře limit $2/4 mají všechny sázky a navýšení velikost $2 v prvních dvou sázkových kolech tj. pre-flop a flop, a velikost $4 v posledních dvou sázkových kolech tj. turn a river)"
+    },
+    {
+      "term": "Limp",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - pouhé dorovnání big blindu před flopem."
+    },
+    {
+      "term": "Little Slick",
+      "definition": "V pokeru tento termín označuje - označení pro startovní kombinaci a-q."
+    },
+    {
+      "term": "Live Card",
+      "definition": "V pokeru tento termín označuje - ve variantách stud pokeru se takto označují karty, které ještě nebyly odhaleny a stále se mohou vyskytovat ve hře."
+    },
+    {
+      "term": "Live Hand",
+      "definition": "Tento pokerový výraz znamená - kombinace, která stále může vyhrát."
+    },
+    {
+      "term": "Loose",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - výraz pro hráče, který hraje hodně startovních kombinací."
+    },
+    {
+      "term": "Loose Aggressive",
+      "definition": "Tento pojem v pokeru popisuje - styl hry, kdy hráč hraje hodně startovních kombinací před flopem a hraje hodně agresivně postflop."
+    },
+    {
+      "term": "Low",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - označení nízké kombinace v hi/lo split hrách. nebo pokerová hra, ve které hodnotově nejnižší kombinace vyhrává."
+    },
+    {
+      "term": "Low Ball",
+      "definition": "Při pokerové hře se tímto myslí - varianta pokeru, ve které vyhrává nejlepší kombinace nízkých karet."
+    },
+    {
+      "term": "LP",
+      "definition": "Tento pojem v pokeru popisuje - zkratka pro late position."
+    },
+    {
+      "term": "Luckbox",
+      "definition": "V pokerové terminologii se jedná o - označení hráče, který má velké štěstí."
+    }
+  ],
+  "M": [
+    {
+      "term": "Magnum",
+      "definition": "V pokerové terminologii se jedná o - označení pro startovní kombinaci 4-4."
+    },
+    {
+      "term": "Main Pot",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - hlavní bank, ve kterém se hromadí všechny sázky během partie, dokud se jeden z hráčů nedostane do all-in situace. v případě, že se jeden hráč dostane do all-in situace a v partii jsou stále ještě minimálně další dva hráči, vytvoří se side pot (vedlejší pot), kam od dané chvíle směřují sázky zbývajících hráčů."
+    },
+    {
+      "term": "Metagame",
+      "definition": "V pokeru tento termín označuje - hráč dělá rozhodnutí, které se odchyluje od optimální herní strategie, na základě nějakých \"externích\" informací na své soupeře."
+    },
+    {
+      "term": "Micro Limit",
+      "definition": "Tento pokerový výraz znamená - nejnižší hry v online pokeru (u cash game)."
+    },
+    {
+      "term": "Middle Pair",
+      "definition": "Tento pojem v pokeru popisuje (střední pár) - ve flopových hrách to znamená, že hráč má pár složený z jedné své karty a ze střední karty na flopu."
+    },
+    {
+      "term": "Middle Position",
+      "definition": "V pokeru tento termín označuje (střední pozice)  - označení pro pozici u stolu, zpravidla pro místa mezi pozicemi utg a hi-jack."
+    },
+    {
+      "term": "Mincash",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - nejmenší peněžní výplata, zpravidla dvojnásobek buy-inu, kterou obdrží hráči na konci výplatní listiny."
+    },
+    {
+      "term": "Minraise",
+      "definition": "V pokeru tento termín označuje - nejmenší možné navýšení."
+    },
+    {
+      "term": "Misdeal",
+      "definition": "Tento pokerový výraz znamená - chyba při rozdávání karet hráčům."
+    },
+    {
+      "term": "Misplay",
+      "definition": "Při pokerové hře se tímto myslí - špatně zahraná hra."
+    },
+    {
+      "term": "Misread",
+      "definition": "V pokeru tento termín označuje - špatně přečtené karty (např.: držíme a-4, ale přehlédneme se a myslíme si, že držíme a-a)."
+    },
+    {
+      "term": "Missclick",
+      "definition": "Tento pokerový výraz znamená - nechtěné ukliknutí se v online pokeru (např.: namísto tlačítka raise zmáčknout tlačítko fold)."
+    },
+    {
+      "term": "Money Management",
+      "definition": "Tento pojem v pokeru popisuje (viz bankroll management)."
+    },
+    {
+      "term": "Monotone",
+      "definition": "V pokerové terminologii se jedná o - označení pro jednobarevný flop."
+    },
+    {
+      "term": "Monster Hand",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - jedna z nejlepších startovních kombinací, např. a-a, k-k nebo q-q."
+    },
+    {
+      "term": "MP",
+      "definition": "V pokerové terminologii se jedná o - zkratka pro výraz middle position."
+    },
+    {
+      "term": "MTT",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - zkratka pro multi table tournament (vícestolový turnaj)."
+    },
+    {
+      "term": "Muck",
+      "definition": "V pokeru tento termín označuje - mucknout handu obecně znamená zahodit handu, výraz se ale nejčastěji používá v situaci, kdy hráč v pozici v showdownu zahodí a neukáže své karty, protože soupeř před ním už ukázal silnější kombinaci."
+    },
+    {
+      "term": "Multi Table Turnaj",
+      "definition": "Při pokerové hře se tímto myslí - turnaj s více stoly, který zpravidla hrají desítky až tisíce hráčů."
+    },
+    {
+      "term": "Multi Way Pot",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - bank, o který bojují více než dva hráči."
+    },
+    {
+      "term": "Multitabling",
+      "definition": "Při pokerové hře se tímto myslí - hra na více stolech najednou."
+    }
+  ],
+  "N": [
+    {
+      "term": "No Limit Game",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - hra (formát), ve které není omezena velikost sázek (např.: no limit hold’em)."
+    },
+    {
+      "term": "Nut",
+      "definition": "V pokerové terminologii se jedná o - nejlepší možná kombinace svého druhu (např.: hráč, který drží nejlepší možnou flush na daném boardu, drží nut flush)."
+    },
+    {
+      "term": "Nuts",
+      "definition": "V pokeru tento termín označuje - nejlepší možná kombinace v danou chvíli. například v texas hold’emu drží hráč nuts, když má na ruce 68 při společných kartách 2579a (má nejlepší možnou postupku a lepší kombinace než postupka je u ostatních hráčů vyloučená)."
+    }
+  ],
+  "O": [
+    {
+      "term": "Off Suit",
+      "definition": "V pokeru tento termín označuje - startovní kombinace složená z různých barev. označuje se také zkráceně jen jako \"o\" (např.: a2 se může zapsat jako a-2o)."
+    },
+    {
+      "term": "Open raise",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - otevření hry raisem. hráč jako první navýší v neotevřené hře (nikdo před ním nevsadil) před flopem."
+    },
+    {
+      "term": "Open-ended Straight Draw",
+      "definition": "V pokerové terminologii se jedná o - hráči chybí jedna \"krajní\" karta do postupky. jeho kombinace je složená ze čtyř karet jdoucích po sobě (např.: 4-5-6-7)."
+    },
+    {
+      "term": "Orbit",
+      "definition": "V pokeru tento termín označuje - obrátka, kolo hry, v němž je každý jednou big blind."
+    },
+    {
+      "term": "Outs",
+      "definition": "Tento pojem v pokeru popisuje (outy) - karty v balíčku, které po vyložení na board mohou změnit hráčovu kombinaci ve vítěznou (např.: hráč má tři outy = v balíčku jsou tři karty, které mu mohou pomoct)."
+    },
+    {
+      "term": "Overcards",
+      "definition": "V pokerové terminologii se jedná o - jako overcard se může označovat společná karta na boardu, která je vyšší než hráčův pocket pár (např.: hráč drží jj na boardu q43 - q je overcard). termín overcards se používá i pro situaci, kdy naopak hráč drží dvě vysoké karty, na nižším boardu (např. ak na flopu j93 - \"nemá sice pár, ale pořád má ještě overcards\")."
+    },
+    {
+      "term": "Overlay",
+      "definition": "Při pokerové hře se tímto myslí - na turnaj nedorazil dostatek hráčů, aby se vybrala garance a casino musí doplácet ze svého."
+    },
+    {
+      "term": "Overpair",
+      "definition": "Při pokerové hře se tímto myslí - hráč drží na ruce pár, který má vyšší hodnotu, než společné karty (např jj na flopu 725."
+    }
+  ],
+  "P": [
+    {
+      "term": "Pair",
+      "definition": "Tento pojem v pokeru popisuje (pár) - dvě karty stejné hodnoty."
+    },
+    {
+      "term": "Pocket pair",
+      "definition": "Při pokerové hře se tímto myslí - hráč má mezi zakrytými kartami (na ruce) pár."
+    },
+    {
+      "term": "Position",
+      "definition": "Při pokerové hře se tímto myslí (pozice) - pozice hráče ve hře vzhledem k pozici \"dealer\", která rozhoduje o sázkovém pořadí. více o pozicích v pokeru se dozvíte v tomto článku."
+    },
+    {
+      "term": "Pot",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - bank v jednotlivé hře. žetony uprostřed stolu, o které se v dané hře hraje."
+    },
+    {
+      "term": "Pot Odds",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - poměr aktuální hodnoty banku (potu) a částky, kterou je nutné dorovnat, aby hráč zůstal ve hře. více o pot odds najdete tady."
+    },
+    {
+      "term": "Prémiové kombinace",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - nejlepší možné kombinace."
+    }
+  ],
+  "Q": [
+    {
+      "term": "Quads",
+      "definition": "Tento pojem v pokeru popisuje - jiný výraz pro kombinaci poker, čtyři karty stejné hodnoty (four of a kind)."
+    },
+    {
+      "term": "Queen",
+      "definition": "Tento pojem v pokeru popisuje - karta hodnoty dáma (q)."
+    }
+  ],
+  "R": [
+    {
+      "term": "Rack",
+      "definition": "V pokeru tento termín označuje - transportní podložka pro žetony (slangově \"saně\")."
+    },
+    {
+      "term": "Raise",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - navýšení předchozí sázky nebo povinných sázek (blindů) v prvním sázkovém kole (open raise)."
+    },
+    {
+      "term": "Razz",
+      "definition": "Při pokerové hře se tímto myslí - pokerový formát. více o variantě razz."
+    },
+    {
+      "term": "Re-buy",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - dokoupení žetonů v turnaji."
+    },
+    {
+      "term": "Re-entry",
+      "definition": "V pokeru tento termín označuje - opětovná registrace do turnaje. rozdíl mezi re-buyem a re-entry je v tom, že z re-buye se obvykle neplatí znova turnajový poplatek a cena žetonů při re-buyi může být odlišná od první registrace. re-entry probíhá za úplně stejných pravidel jako první registrace do turnaje."
+    },
+    {
+      "term": "Re-raise",
+      "definition": "V pokeru tento termín označuje - další navýšení předchozího navýšení (raisu)."
+    },
+    {
+      "term": "Read",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - čtení karet soupeře."
+    },
+    {
+      "term": "Reprezentovat",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - hráč reprezentuje nějakou kombinaci, pokud sází způsobem, že se od něj taková kombinace dá předpokládat."
+    },
+    {
+      "term": "Ring Game",
+      "definition": "Tento pokerový výraz znamená - jakákoliv neturnajová hra, do které může hráč kdykoliv vstoupit a kdykoliv z ní vystoupit."
+    },
+    {
+      "term": "River",
+      "definition": "Tento pokerový výraz znamená - poslední, pátá společná karta ve formátech hold'em a omaha."
+    },
+    {
+      "term": "ROI",
+      "definition": "Tento pojem v pokeru popisuje - return on investments. procentuální \"návratnost investice\" - jedno z měřítek úspěšnosti v pokeru."
+    },
+    {
+      "term": "Runner-runner",
+      "definition": "V pokeru tento termín označuje - kombinace vytvořená pomocí dvou posledních společných karet (turnu a riveru)."
+    }
+  ],
+  "S": [
+    {
+      "term": "Satellite",
+      "definition": "Při pokerové hře se tímto myslí (satelit) - turnaj, ve kterém všichni výherci vyhrávají stejnou cenu, zpravidla vstupné do dražšího turnaje."
+    },
+    {
+      "term": "Scare Card",
+      "definition": "Tento pokerový výraz znamená - společná karta, která výrazně mění situaci a může hráče odradit o další akce."
+    },
+    {
+      "term": "Scoop",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - výhra celého banku (v hi-lo formátech)."
+    },
+    {
+      "term": "Semibluff",
+      "definition": "Tento pokerový výraz znamená - sázka s kombinací, která v danou chvíli pravděpodobně není nejlepší, má ale šanci na výrazné zlepšení (např. s flush draw)."
+    },
+    {
+      "term": "Set",
+      "definition": "Tento pokerový výraz znamená - trojice složená z hráčova pocket páru a jedné společné karty."
+    },
+    {
+      "term": "Short Stack",
+      "definition": "V pokerové terminologii se jedná o - malé množství žetonů. označení hráče s nízkým stackem."
+    },
+    {
+      "term": "Showdown",
+      "definition": "Při pokerové hře se tímto myslí - vyložení karet na konci hry, pokud v průběhu partie zůstali alespoň dva hráči, kteří nesložili. více o showdown se dočtete zde."
+    },
+    {
+      "term": "Side pot",
+      "definition": "Tento pokerový výraz znamená - vedlejší bank, o který hrají zbývající aktivní hráči ve hře, kde je už jeden hráč all-in (hráč, který je all-in, nemůže nad jednotlivými soupeři vyhrát více, než sám vsadil)."
+    },
+    {
+      "term": "Slow roll",
+      "definition": "V pokerové terminologii se jedná o - otálení hráče s dorovnáním, nebo ukázáním vítězné kombinace."
+    },
+    {
+      "term": "Slowplay",
+      "definition": "V pokeru tento termín označuje - pasivní hra s velmi silnou kombinací, která má soupeře přesvědčit o slabosti."
+    },
+    {
+      "term": "Small Blind",
+      "definition": "V pokeru tento termín označuje - menší ze dvou povinných sázek (sázek naslepo), které se používají především v hold’emových hrách."
+    },
+    {
+      "term": "Snap call",
+      "definition": "Tento pokerový výraz znamená - velmi rychlé dorovnání."
+    },
+    {
+      "term": "Spades",
+      "definition": "V pokerové terminologii se jedná o - barva piky (listy) ."
+    },
+    {
+      "term": "Split Pot",
+      "definition": "Tento pokerový výraz znamená - bank rozdělený mezi hráče se stejně silnými vítěznými kombinacemi."
+    },
+    {
+      "term": "Stack",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - žetony, které má hráč před sebou u stolu."
+    },
+    {
+      "term": "Steal",
+      "definition": "Při pokerové hře se tímto myslí - open raise bluff z pozdní pozice, jehož účelem je \"ukrást\" blindy (povinné sázky)."
+    },
+    {
+      "term": "Straddle",
+      "definition": "V pokerové terminologii se jedná o - navýšení sázky naslepo ještě před rozdáním karet. více o straddle v pokeru najdete zde."
+    },
+    {
+      "term": "String Bet",
+      "definition": "V pokeru tento termín označuje - neregulérní sázka při živém pokeru, pokud hráč nevsadí celou zamýšlenou sázku najednou (neposune před sebe všechny žetony, které chce vsadit, jedním pohybem)."
+    },
+    {
+      "term": "Suited",
+      "definition": "V pokeru tento termín označuje - startovní kombinace složená ze dvou karet stejné barvy. označuje se také zkráceně jen jako \"s\" (např.: a2 se může zapsat jako a-2s)."
+    }
+  ],
+  "T": [
+    {
+      "term": "Tell",
+      "definition": "Tento pojem v pokeru popisuje - chování hráče, které může soupeřům poskytnout informaci o síle jeho karet."
+    },
+    {
+      "term": "Ticket",
+      "definition": "V pokerovém slovníku najdeme tento termín jako - vstupenka do hry (obvykle do turnaje)."
+    },
+    {
+      "term": "Tight Player",
+      "definition": "Tento pojem v pokeru popisuje - zatažený hráč. hráč, který hraje jen s velmi dobrými kartami."
+    },
+    {
+      "term": "Tilt",
+      "definition": "Tento pokerový výraz znamená - negativní emoce. například po prohrané handě. ovlivňují další průběh hry."
+    },
+    {
+      "term": "Top Pair",
+      "definition": "Tento pojem v pokeru popisuje - nejvyšší pár tvořený jednou společnou kartou a jednou kartou na ruce."
+    },
+    {
+      "term": "Trips",
+      "definition": "V pokeru tento termín označuje - trojice, která je vytvořena z jedné karty na ruce a dvou společných karet."
+    },
+    {
+      "term": "Turn",
+      "definition": "Mezi hráči pokeru se tímto výrazem rozumí - čtvrtá společná karta v hold'emu a omaze."
+    }
+  ],
+  "U": [
+    {
+      "term": "Under the Gun",
+      "definition": "Při pokerové hře se tímto myslí (utg) - pozice vlevo od pozice big blind. hráč, který se na začátku partie vyjadřuje jako první."
+    },
+    {
+      "term": "Underdog",
+      "definition": "V pokeru tento termín označuje - kombinace, která nemá velkou šanci na výhru."
+    },
+    {
+      "term": "Up-Cards",
+      "definition": "Při pokerové hře se tímto myslí - karty rozdané lícem nahoru (otevřené karty)."
+    }
+  ],
+  "V": [
+    {
+      "term": "Value Bet",
+      "definition": "V pokerové terminologii se jedná o - sázka, která má přimět soupeře dorovnat se slabší kombinací."
+    },
+    {
+      "term": "Variance",
+      "definition": "Tento pojem v pokeru popisuje - statistická míra rozptylu výsledků. více například v tomto videu."
+    },
+    {
+      "term": "VPIP",
+      "definition": "V pokeru tento termín označuje - anglicky \"voluntarily put money in the pot\" znamená v překladu dobrovolné vložení peněz do potu. zjednodušeně jde o procento startovních kombinací, s nimiž hráč vstupuje do hry."
+    }
+  ],
+  "W": [
+    {
+      "term": "Way Ahead/Way Behind",
+      "definition": "Při pokerové hře se tímto myslí (wa/wb) - situace, ve které je hráčova kombinace buď výrazně lepší nebo výrazně horší než soupeřova kombinace."
+    },
+    {
+      "term": "Wheel",
+      "definition": "V pokerové terminologii se jedná o - nejhodnotnější kombinace ve hře low poker (5-4-3-2-a)."
+    }
+  ]
+}
