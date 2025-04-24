@@ -17,16 +17,16 @@ jobs:
         with:
           node-version: 18
           cache: 'npm'
-          cache-dependency-path: package-lock.json
+          cache-dependency-path: pokerovy-slovnik/package-lock.json
 
       - name: Install dependencies
-        run: npm ci
+        run: cd pokerovy-slovnik && npm ci
 
       - name: Build
-        run: npm run build
+        run: cd pokerovy-slovnik && npm run build
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: dist
+          folder: pokerovy-slovnik/dist
           branch: gh-pages
