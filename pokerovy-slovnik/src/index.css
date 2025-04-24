@@ -67,18 +67,32 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 1.8rem;
   font-weight: 700;
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 600;
 }
 
 h3 {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: 600;
+}
+
+@media (min-width: 768px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+  
+  h2 {
+    font-size: 2rem;
+  }
+  
+  h3 {
+    font-size: 1.5rem;
+  }
 }
 
 p {
@@ -111,6 +125,14 @@ button:focus-visible {
   outline-offset: 2px;
 }
 
+/* Responzivní úpravy */
+@media (max-width: 768px) {
+  button {
+    padding: 0.5em 1em;
+    font-size: 0.9em;
+  }
+}
+
 /* Scrollbar styling */
 ::-webkit-scrollbar {
   width: 10px;
@@ -129,4 +151,12 @@ button:focus-visible {
 
 ::-webkit-scrollbar-thumb:hover {
   background: rgba(255, 255, 255, 0.3);
+}
+
+/* Responzivní úpravy pro mobilní zařízení */
+@media (max-width: 480px) {
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
 }

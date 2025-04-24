@@ -10,6 +10,7 @@ import LetterPage from './pages/LetterPage'
 import TermDetail from './pages/TermDetail'
 import SearchResults from './pages/SearchResults'
 import AboutPage from './pages/AboutPage'
+import AddTermPage from './pages/AddTermPage'
 
 const AppContainer = styled.div`
   display: flex;
@@ -19,24 +20,43 @@ const AppContainer = styled.div`
 
 const PageLayout = styled.div`
   display: flex;
+  flex-direction: column;
   flex: 1;
   width: 100%;
   max-width: 1600px;
   margin: 0 auto;
   position: relative;
+  
+  @media (min-width: 1024px) {
+    flex-direction: row;
+  }
 `
 
 const SideBanner = styled.div`
-  width: 160px;
-  padding: 1rem;
-  position: sticky;
-  top: 1rem;
-  height: calc(100vh - 2rem);
+  width: 100%;
+  padding: 0.5rem;
+  height: auto;
   display: flex;
-  flex-direction: column;
-  gap: 1rem;
-
-  @media (max-width: 1400px) {
+  flex-direction: row;
+  gap: 0.5rem;
+  
+  @media (min-width: 768px) {
+    padding: 1rem;
+  }
+  
+  @media (min-width: 1024px) {
+    width: 180px;
+    flex-direction: column;
+    gap: 1rem;
+    position: sticky;
+    top: 1rem;
+  }
+  
+  @media (min-width: 1200px) {
+    width: 200px;
+  }
+  
+  @media (max-width: 767px) {
     display: none;
   }
 `
@@ -56,6 +76,7 @@ const BannerAd = styled.div`
   text-align: center;
   color: rgba(255, 255, 255, 0.6);
   font-size: 0.8rem;
+  height: 200px;
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -68,14 +89,26 @@ const BannerAd = styled.div`
     background-color: rgba(255, 255, 255, 0.08);
     border-color: var(--accent-color);
   }
+  
+  @media (min-width: 1024px) {
+    height: 300px;
+  }
+  
+  @media (min-width: 1200px) {
+    height: 400px;
+  }
 `
 
 const MainContent = styled.main`
   flex: 1;
-  padding: 2rem;
+  padding: 1rem;
   max-width: 1200px;
   margin: 0 auto;
   width: 100%;
+  
+  @media (min-width: 768px) {
+    padding: 2rem;
+  }
 `
 
 function App() {
@@ -85,13 +118,9 @@ function App() {
         <Header />
         <PageLayout>
           <LeftBanner>
-            <BannerAd id="left-banner-1">
+            <BannerAd id="left-banner">
               <p>Reklamní banner</p>
-              <small>160 x 600</small>
-            </BannerAd>
-            <BannerAd id="left-banner-2">
-              <p>Reklamní banner</p>
-              <small>160 x 600</small>
+              <small>200 x 400</small>
             </BannerAd>
           </LeftBanner>
 
@@ -103,17 +132,14 @@ function App() {
               <Route path="/slovnik/term/:term" element={<TermDetail />} />
               <Route path="/vyhledavani" element={<SearchResults />} />
               <Route path="/o-projektu" element={<AboutPage />} />
+              <Route path="/pridat-vyraz" element={<AddTermPage />} />
             </Routes>
           </MainContent>
 
           <RightBanner>
-            <BannerAd id="right-banner-1">
+            <BannerAd id="right-banner">
               <p>Reklamní banner</p>
-              <small>160 x 600</small>
-            </BannerAd>
-            <BannerAd id="right-banner-2">
-              <p>Reklamní banner</p>
-              <small>160 x 600</small>
+              <small>200 x 400</small>
             </BannerAd>
           </RightBanner>
         </PageLayout>

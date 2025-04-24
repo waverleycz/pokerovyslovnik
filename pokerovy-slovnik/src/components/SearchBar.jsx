@@ -5,8 +5,12 @@ import pokerTerms from '../poker_terms.json';
 
 const SearchContainer = styled.div`
   max-width: 600px;
-  margin: 2rem auto;
+  margin: 1rem auto;
   position: relative;
+  
+  @media (min-width: 768px) {
+    margin: 2rem auto;
+  }
 `;
 
 const SearchForm = styled.form`
@@ -15,8 +19,8 @@ const SearchForm = styled.form`
 `;
 
 const SearchInput = styled.input`
-  padding: 1rem 1.5rem;
-  font-size: 1.1rem;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
   border: 2px solid rgba(255, 255, 255, 0.1);
   border-radius: var(--border-radius);
   width: 100%;
@@ -35,6 +39,11 @@ const SearchInput = styled.input`
     outline: none;
     background-color: rgba(255, 255, 255, 0.12);
   }
+  
+  @media (min-width: 768px) {
+    padding: 1rem 1.5rem;
+    font-size: 1.1rem;
+  }
 `;
 
 const SearchButton = styled.button`
@@ -46,15 +55,21 @@ const SearchButton = styled.button`
   color: var(--text-dark);
   border: none;
   border-radius: 50px;
-  padding: 0.5rem 1rem;
+  padding: 0.4rem 0.8rem;
   cursor: pointer;
   transition: all 0.3s;
   font-weight: 500;
+  font-size: 0.9rem;
 
   &:hover {
     background-color: #e5c254;
     transform: translateY(-50%) scale(1.05);
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  @media (min-width: 768px) {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
   }
 `;
 
@@ -67,19 +82,24 @@ const SearchResults = styled.div`
   border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: var(--border-radius);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-  max-height: 300px;
+  max-height: 250px;
   overflow-y: auto;
   z-index: 10;
   margin-top: 0.5rem;
   display: ${props => (props.show ? 'block' : 'none')};
   backdrop-filter: blur(5px);
+  
+  @media (min-width: 768px) {
+    max-height: 300px;
+  }
 `;
 
 const SearchResultItem = styled.div`
-  padding: 0.75rem 1rem;
+  padding: 0.6rem 0.8rem;
   cursor: pointer;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   color: var(--text-light);
+  font-size: 0.9rem;
 
   &:hover {
     background-color: rgba(255, 255, 255, 0.08);
@@ -87,6 +107,11 @@ const SearchResultItem = styled.div`
 
   &:last-child {
     border-bottom: none;
+  }
+  
+  @media (min-width: 768px) {
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
   }
 `;
 
@@ -224,8 +249,8 @@ const SearchBar = () => {
             onClick={() => handleResultClick(result.term)}
           >
             <TermHighlight>{result.term}</TermHighlight> -
-            {result.definition.length > 100
-              ? `${result.definition.substring(0, 100)}...`
+            {result.definition.length > 80
+              ? `${result.definition.substring(0, 80)}...`
               : result.definition}
           </SearchResultItem>
         ))}

@@ -6,21 +6,27 @@ const NavContainer = styled.div`
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 0.5rem;
-  margin: 2rem 0;
+  gap: 0.3rem;
+  margin: 1rem 0;
   background-color: rgba(0, 0, 0, 0.2);
-  padding: 1.5rem;
+  padding: 1rem;
   border-radius: var(--border-radius);
   box-shadow: inset 0 2px 10px rgba(0, 0, 0, 0.2);
   border: 1px solid rgba(255, 255, 255, 0.05);
+  
+  @media (min-width: 768px) {
+    gap: 0.5rem;
+    margin: 2rem 0;
+    padding: 1.5rem;
+  }
 `;
 
 const LetterLink = styled(Link)`
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 45px;
-  height: 45px;
+  width: 35px;
+  height: 35px;
   border-radius: 50%;
   background-color: ${props => props.active ? 'var(--accent-color)' : 'rgba(255, 255, 255, 0.1)'};
   color: ${props => props.active ? 'var(--text-dark)' : 'var(--text-light)'};
@@ -29,6 +35,7 @@ const LetterLink = styled(Link)`
   transition: all 0.2s;
   box-shadow: ${props => props.active ? '0 4px 8px rgba(0, 0, 0, 0.3)' : 'none'};
   transform: ${props => props.active ? 'scale(1.1)' : 'scale(1)'};
+  font-size: 0.9rem;
 
   &:hover {
     background-color: ${props => props.active ? '#e5c254' : 'rgba(255, 255, 255, 0.2)'};
@@ -42,6 +49,12 @@ const LetterLink = styled(Link)`
     cursor: not-allowed;
     pointer-events: none;
     background-color: rgba(255, 255, 255, 0.05);
+  }
+  
+  @media (min-width: 768px) {
+    width: 45px;
+    height: 45px;
+    font-size: 1rem;
   }
 `;
 

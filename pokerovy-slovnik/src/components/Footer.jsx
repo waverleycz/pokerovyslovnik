@@ -4,16 +4,33 @@ import { Link } from 'react-router-dom';
 const FooterContainer = styled.footer`
   background-color: var(--poker-dark-green);
   color: var(--text-light);
-  padding: 3rem 2rem;
+  padding: 2rem 1rem;
   border-top: 2px solid var(--accent-color);
+  
+  @media (min-width: 768px) {
+    padding: 3rem 2rem;
+  }
 `;
 
 const FooterContent = styled.div`
   max-width: 1200px;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 2rem;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  
+  @media (min-width: 480px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+  }
+  
+  @media (min-width: 992px) {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  }
 `;
 
 const FooterSection = styled.div`
@@ -22,8 +39,13 @@ const FooterSection = styled.div`
 
 const FooterTitle = styled.h3`
   color: var(--accent-color);
-  margin-bottom: 1.5rem;
-  font-size: 1.3rem;
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+  
+  @media (min-width: 768px) {
+    margin-bottom: 1.5rem;
+    font-size: 1.3rem;
+  }
 `;
 
 const FooterLinks = styled.ul`
@@ -33,7 +55,8 @@ const FooterLinks = styled.ul`
 `;
 
 const FooterLink = styled.li`
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
 
   a {
     color: var(--text-light);
@@ -44,23 +67,41 @@ const FooterLink = styled.li`
       color: var(--accent-color);
     }
   }
+  
+  @media (min-width: 768px) {
+    margin-bottom: 0.75rem;
+    font-size: 1rem;
+  }
 `;
 
 const FooterBottom = styled.div`
   max-width: 1200px;
-  margin: 3rem auto 0;
-  padding-top: 1.5rem;
+  margin: 2rem auto 0;
+  padding-top: 1rem;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
+  justify-content: center;
   align-items: center;
-  flex-wrap: wrap;
   gap: 1rem;
+  
+  @media (min-width: 768px) {
+    margin: 3rem auto 0;
+    padding-top: 1.5rem;
+    flex-direction: row;
+    justify-content: space-between;
+  }
 `;
 
 const Copyright = styled.p`
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   color: rgba(255, 255, 255, 0.6);
+  text-align: center;
+  
+  @media (min-width: 768px) {
+    font-size: 0.9rem;
+    text-align: left;
+  }
 `;
 
 const SocialLinks = styled.div`
@@ -81,13 +122,19 @@ const SocialLink = styled.a`
 // Prostor pro Google Ads
 const AdSpace = styled.div`
   max-width: 1200px;
-  margin: 0 auto 2rem;
-  padding: 1rem;
+  margin: 0 auto 1rem;
+  padding: 0.75rem;
   background-color: rgba(255, 255, 255, 0.05);
   border-radius: var(--border-radius);
   text-align: center;
   color: rgba(255, 255, 255, 0.6);
-  font-size: 0.9rem;
+  font-size: 0.8rem;
+  
+  @media (min-width: 768px) {
+    margin: 0 auto 2rem;
+    padding: 1rem;
+    font-size: 0.9rem;
+  }
 `;
 
 const Footer = () => {
